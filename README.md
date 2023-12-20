@@ -2,9 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Create Reat App
+## Create/Run Reat App
 
 `npm create vite@4.1.0`
+`npm run dev`
 
 ## shortcut
 
