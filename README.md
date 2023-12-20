@@ -19,7 +19,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 -Wrap abberaviation 
  - select item
- - ctrl shipt p
+ - ctrl shift p
  - key in wrap
  - key in the text
 
